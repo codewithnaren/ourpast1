@@ -1,4 +1,4 @@
-const url = 'https://ravulakollunarender.github.io/testpdf/OurHabitatClass6.pdf';
+const url = 'https://ravulakollunarender.github.io/ourpast1/History6.pdf';
 
 
 let pdfDoc = null,
